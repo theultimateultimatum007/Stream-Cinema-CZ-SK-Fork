@@ -1,0 +1,1014 @@
+# XBMC Media Center language file
+# Addon Name: Stream Cinema CZ a SK
+# Addon id: plugin.video.stream-cinema
+# Addon version: 2.0.0
+# Addon Provider: bbaron
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2019-09-02 16:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "Addon Summary"
+msgid "stream-cinema.online - play content from kra.sk[CR]For operation it is necessary to [I]register at kra.sk and have an active subscription[/I]."
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "The author of this addon does not provide any content and has no affiliation with content providers. This addon only searches shared content on kra.sk. Use at your own risk!"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Please enter your login details for kra.sk"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Username (kra.sk)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Password (kra.sk)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Turn debug on/off"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Subscription days left"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Token (kra.sk)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "UUID"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Plugin version"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Streams"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Display all streams (orig., orig.+tit, dub.)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Display only streams with dubbing or subtitles"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Display only streams with dubbing"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Autoselect stream"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Primary language for audio streams"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Secondary language for audio streams"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Max. bitrate in Mbps"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Parental control"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Enable parental control"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Parental control starts at (hour)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Parental control ends at (hour)"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Parental control rating (years)"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Primary language for audio streams (parental control)"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Secondary language for audio streams (parental control)"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Display only dubbed (CZ/SK) streams while parental control"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Trakt.tv"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Trakt.tv user"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Trakt.tv authorization"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Folders"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Download folder"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Setup KODI video cache"
+msgstr ""
+
+msgctxt "#30041"
+msgid "AndroidTV playlist folder"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Run the add-on at startup"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Startup"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Max. resolution"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Exclude 3D"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Exclude HDR"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Prefer HDR"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Preferred codecs"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Not preferred codecs"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Preferred groups"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Not preferred groups"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Preferred source"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Not preferred source"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Preferred audio with multiple audio channels"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Run addons update"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Enable trakt.tv"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Login to trakt.tv"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Logout from trakt.tv"
+msgstr ""
+
+msgctxt "#30060"
+msgid "Show genre in item title"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Automatically start the next episode when the series opens"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Path for movie library"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Path for tvshow library"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Export metadata from plugin"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Show old style menu"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Exclude Dolby Vision streams"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Exclude HDR streams"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Tools"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Sync TV Shows from trakt.tv"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Sync Next EP"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Show skip button"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Auth token"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Parental control"
+msgstr "Parental control"
+
+msgctxt "#30100"
+msgid "Welcome"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Thank you for installing stream cinema plugin. Do you wish to configure login credentials right now?"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Login error"
+msgstr ""
+
+msgctxt "#30103"
+msgid "You have entered invalid credentials."
+msgstr ""
+
+msgctxt "#30104"
+msgid "Login successful"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Do you wish to open plugin settings?"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Subscription days left: {}"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Login error"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Invalid credentials. Do you wish to open plugin settings?"
+msgstr ""
+
+msgctxt "#30109"
+msgid "System"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Debug enabled"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Debug disabled"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Error"
+msgstr ""
+
+msgctxt "#30113"
+msgid "Problem retrieving file link"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Connection error"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Pin/Unpin"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Select stream manually"
+msgstr ""
+
+msgctxt "#30117"
+msgid "History"
+msgstr ""
+
+msgctxt "#30118"
+msgid "History is empty"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Download"
+msgstr ""
+
+msgctxt "#30120"
+msgid "{}MB free memory"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Warning! A KODI advanced setting has already been set. This operation will erase all your settings! Do you still want to continue?"
+msgstr ""
+
+msgctxt "#30122"
+msgid "You need to restart KODI for the new settings to work. Did you restart KODI?"
+msgstr ""
+
+msgctxt "#30123"
+msgid "You need to restart KODI for the new settings to work. Please turn off KODI and start it again."
+msgstr ""
+
+msgctxt "#30124"
+msgid "Add to Android TV"
+msgstr ""
+
+msgctxt "#30125"
+msgid "Add item to HP"
+msgstr ""
+
+msgctxt "#30126"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#30127"
+msgid "Addon is not installed from our repository. Please install addon from our repository."
+msgstr ""
+
+msgctxt "#30128"
+msgid "Add to library"
+msgstr ""
+
+msgctxt "#30129"
+msgid "Add to library with subscription"
+msgstr ""
+
+msgctxt "#30130"
+msgid "Remove from subscription"
+msgstr ""
+
+msgctxt "#30131"
+msgid "Active subscription required. For proper operation of this plugin you must have an active subscription at kra.sk."
+msgstr ""
+
+msgctxt "#30132"
+msgid "Cancel preferred language {}"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Choose preferred language"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Skip"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Advanced Filter"
+msgstr "Advanced Filter"
+
+msgctxt "#30201"
+msgid "Content Type"
+msgstr "Content Type"
+
+msgctxt "#30202"
+msgid "Quality"
+msgstr "Quality"
+
+msgctxt "#30203"
+msgid "Language"
+msgstr "Language"
+
+msgctxt "#30204"
+msgid "HDR"
+msgstr "HDR"
+
+msgctxt "#30205"
+msgid "Dolby Vision"
+msgstr "Dolby Vision"
+
+msgctxt "#30206"
+msgid "Dolby Atmos"
+msgstr "Dolby Atmos"
+
+msgctxt "#30207"
+msgid "Codec"
+msgstr "Codec"
+
+msgctxt "#30208"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#30209"
+msgid "Rating"
+msgstr "Rating"
+
+msgctxt "#30210"
+msgid "Year"
+msgstr "Year"
+
+msgctxt "#30211"
+msgid "Genres"
+msgstr "Genres"
+
+msgctxt "#30212"
+msgid "Countries"
+msgstr "Countries"
+
+msgctxt "#30213"
+msgid "Sort by"
+msgstr "Sort by"
+
+msgctxt "#30214"
+msgid "Sort direction"
+msgstr "Sort direction"
+
+msgctxt "#30215"
+msgid "Apply filter"
+msgstr "Apply filter"
+
+msgctxt "#30216"
+msgid "Reset"
+msgstr "Reset"
+
+msgctxt "#30217"
+msgid "Save filter"
+msgstr "Save filter"
+
+msgctxt "#30218"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "#30219"
+msgid "Movies"
+msgstr "Movies"
+
+msgctxt "#30220"
+msgid "TV Shows"
+msgstr "TV Shows"
+
+msgctxt "#30221"
+msgid "All"
+msgstr "All"
+
+msgctxt "#30222"
+msgid "Show HDR too"
+msgstr "Show HDR too"
+
+msgctxt "#30223"
+msgid "Only HDR"
+msgstr "Only HDR"
+
+msgctxt "#30224"
+msgid "Without HDR"
+msgstr "Without HDR"
+
+msgctxt "#30225"
+msgid "Show DV too"
+msgstr "Show DV too"
+
+msgctxt "#30226"
+msgid "Only DV"
+msgstr "Only DV"
+
+msgctxt "#30227"
+msgid "Without DV"
+msgstr "Without DV"
+
+msgctxt "#30228"
+msgid "Show Atmos too"
+msgstr "Show Atmos too"
+
+msgctxt "#30229"
+msgid "Only Dolby Atmos"
+msgstr "Only Dolby Atmos"
+
+msgctxt "#30230"
+msgid "All codecs"
+msgstr "All codecs"
+
+msgctxt "#30231"
+msgid "Without HEVC"
+msgstr "Without HEVC"
+
+msgctxt "#30232"
+msgid "Dubbing / Subtitles"
+msgstr "Dubbing / Subtitles"
+
+msgctxt "#30233"
+msgid "Only dubbing"
+msgstr "Only dubbing"
+
+msgctxt "#30234"
+msgid "Only subtitles"
+msgstr "Only subtitles"
+
+msgctxt "#30235"
+msgid "Dubbing or subtitles"
+msgstr "Dubbing or subtitles"
+
+msgctxt "#30236"
+msgid "Rating (>70, <50, 60:80)"
+msgstr "Rating (>70, <50, 60:80)"
+
+msgctxt "#30237"
+msgid "Year (>2020, <2010, 2020:2024)"
+msgstr "Year (>2020, <2010, 2020:2024)"
+
+msgctxt "#30238"
+msgid "Genres (multiple selection)"
+msgstr "Genres (multiple selection)"
+
+msgctxt "#30239"
+msgid "Countries (multiple selection)"
+msgstr "Countries (multiple selection)"
+
+msgctxt "#30240"
+msgid "No filter set"
+msgstr "No filter set"
+
+msgctxt "#30241"
+msgid "Really reset filter?"
+msgstr "Really reset filter?"
+
+msgctxt "#30242"
+msgid "Filter is already empty"
+msgstr "Filter is already empty"
+
+msgctxt "#30243"
+msgid "No filter to save"
+msgstr "No filter to save"
+
+msgctxt "#30244"
+msgid "Enter filter name"
+msgstr "Enter filter name"
+
+msgctxt "#30245"
+msgid "Error loading filtered content"
+msgstr "Error loading filtered content"
+
+msgctxt "#30246"
+msgid "{} selected"
+msgstr "{} selected"
+
+msgctxt "#30247"
+msgid "No qualities available"
+msgstr "No qualities available"
+
+msgctxt "#30248"
+msgid "No languages available"
+msgstr "No languages available"
+
+msgctxt "#30249"
+msgid "No sort options available"
+msgstr "No sort options available"
+
+msgctxt "#30250"
+msgid "No genres available"
+msgstr "No genres available"
+
+msgctxt "#30251"
+msgid "No countries available"
+msgstr "No countries available"
+
+msgctxt "#30252"
+msgid "Date added"
+msgstr "Date added"
+
+msgctxt "#30253"
+msgid "Descending"
+msgstr "Descending"
+
+msgctxt "#30254"
+msgid "Ascending"
+msgstr "Ascending"
+
+msgctxt "#30255"
+msgid "No types available"
+msgstr "No types available"
+
+msgctxt "#30256"
+msgid "No sort directions available"
+msgstr "No sort directions available"
+
+msgctxt "#30257"
+msgid "Current filter"
+msgstr "Current filter"
+
+msgctxt "#30260"
+msgid "Pre-filled from category"
+msgstr "Pre-filled from category"
+
+msgctxt "#30261"
+msgid "Filter is pre-filled with values from the current category"
+msgstr "Filter is pre-filled with values from the current category"
+
+msgctxt "#30262"
+msgid "Exclude Genres"
+msgstr "Exclude Genres"
+
+msgctxt "#30263"
+msgid "Exclude genres (multiple selection)"
+msgstr "Exclude genres (multiple selection)"
+
+msgctxt "#30264"
+msgid "First stream added"
+msgstr "First stream added"
+
+msgctxt "#30265"
+msgid "Last stream added"
+msgstr "Last stream added"
+
+msgctxt "#30266"
+msgid "Popularity"
+msgstr "Popularity"
+
+msgctxt "#30267"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30268"
+msgid "Search query"
+msgstr "Search query"
+
+msgctxt "#30269"
+msgid "HEVC Codec"
+msgstr "HEVC Codec"
+
+msgctxt "#30270"
+msgid "Without HEVC"
+msgstr "Without HEVC"
+
+msgctxt "#30271"
+msgid "3D/Stereoscopic"
+msgstr "3D/Stereoscopic"
+
+msgctxt "#30272"
+msgid "Without 3D"
+msgstr "Without 3D"
+
+msgctxt "#30273"
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgctxt "#30274"
+msgid "Bitrate range (>5, <10, 5:10 Mbps)"
+msgstr "Bitrate range (>5, <10, 5:10 Mbps)"
+
+msgctxt "#30275"
+msgid "Filesize"
+msgstr "Filesize"
+
+msgctxt "#30276"
+msgid "Filesize range (>1000, <5000, 1000:5000 MB)"
+msgstr "Filesize range (>1000, <5000, 1000:5000 MB)"
+
+msgctxt "#30277"
+msgid "Age Rating"
+msgstr "Age Rating"
+
+msgctxt "#30278"
+msgid "Keywords"
+msgstr "Keywords"
+
+msgctxt "#30279"
+msgid "Cast"
+msgstr "Cast"
+
+msgctxt "#30280"
+msgid "Cast (multiple selection)"
+msgstr "Cast (multiple selection)"
+
+# Search History
+msgctxt "#30300"
+msgid "New Search"
+msgstr "New Search"
+
+msgctxt "#30302"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt "#30303"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "#30304"
+msgid "Clear All"
+msgstr "Clear All"
+
+msgctxt "#30305"
+msgid "Delete \"{query}\" from history?"
+msgstr "Delete \"{query}\" from history?"
+
+msgctxt "#30306"
+msgid "Clear all search history?"
+msgstr "Clear all search history?"
+
+msgctxt "#30307"
+msgid "Edit Search"
+msgstr "Edit Search"
+
+msgctxt "#30308"
+msgid "Search History"
+msgstr "Search History"
+
+msgctxt "#30309"
+msgid "Last: {date}"
+msgstr "Last: {date}"
+
+msgctxt "#30322"
+msgid "Quick Search Movies"
+msgstr "Quick Search Movies"
+
+msgctxt "#30323"
+msgid "Quick Search TV Shows"
+msgstr "Quick Search TV Shows"
+
+# Trakt History
+msgctxt "#30310"
+msgid "Movie History"
+msgstr "Movie History"
+
+msgctxt "#30311"
+msgid "TV History"
+msgstr "TV History"
+
+msgctxt "#30312"
+msgid "Next Page"
+msgstr "Next Page"
+
+msgctxt "#30313"
+msgid "Previous Page"
+msgstr "Previous Page"
+
+msgctxt "#30314"
+msgid "Page {page}"
+msgstr "Page {page}"
+
+msgctxt "#30315"
+msgid "In Progress Movies"
+msgstr "In Progress Movies"
+
+msgctxt "#30316"
+msgid "In Progress TV Shows"
+msgstr "In Progress TV Shows"
+
+msgctxt "#30317"
+msgid "Trakt.tv Rate Limit"
+msgstr "Trakt.tv Rate Limit"
+
+msgctxt "#30318"
+msgid "Rate limit reached, waiting {seconds}s..."
+msgstr "Rate limit reached, waiting {seconds}s..."
+
+msgctxt "#30319"
+msgid "Trakt.tv Server Error"
+msgstr "Trakt.tv Server Error"
+
+msgctxt "#30320"
+msgid "Server error, retrying in {seconds}s..."
+msgstr "Server error, retrying in {seconds}s..."
+
+msgctxt "#30321"
+msgid "Authorization expired, please log in again"
+msgstr "Authorization expired, please log in again"
+
+# Hide HP items
+msgctxt "#30330"
+msgid "Hide"
+msgstr "Hide"
+
+msgctxt "#30331"
+msgid "Reset hidden items"
+msgstr "Reset hidden items"
+
+msgctxt "#30332"
+msgid "Hidden items restored"
+msgstr "Hidden items restored"
+
+msgctxt "#30333"
+msgid "SC Helper error"
+msgstr "SC Helper error"
+
+msgctxt "#30334"
+msgid "Failed to start the SC Helper service, without which playback does not work. Try restarting Kodi."
+msgstr "Failed to start the SC Helper service, without which playback does not work. Try restarting Kodi."
+
+# Bug report wizard
+msgctxt "#30400"
+msgid "Report a problem"
+msgstr "Report a problem"
+
+msgctxt "#30401"
+msgid "Stream not working"
+msgstr "Stream not working"
+
+msgctxt "#30402"
+msgid "Wrongly assigned stream"
+msgstr "Wrongly assigned stream"
+
+msgctxt "#30403"
+msgid "Bad audio/video sync or quality"
+msgstr "Bad audio/video sync or quality"
+
+msgctxt "#30404"
+msgid "General plugin error"
+msgstr "General plugin error"
+
+msgctxt "#30405"
+msgid "Step 1 of 2: Select problem category"
+msgstr "Step 1 of 2: Select problem category"
+
+msgctxt "#30406"
+msgid "Step 2 of 2: Describe the problem"
+msgstr "Step 2 of 2: Describe the problem"
+
+msgctxt "#30407"
+msgid "Describe the problem (required)"
+msgstr "Describe the problem (required)"
+
+msgctxt "#30408"
+msgid "Please enter a description of the problem."
+msgstr "Please enter a description of the problem."
+
+msgctxt "#30409"
+msgid "Attach kra.sk username"
+msgstr "Attach kra.sk username"
+
+msgctxt "#30410"
+msgid "Attach log"
+msgstr "Attach log"
+
+msgctxt "#30411"
+msgid "Problem report preview"
+msgstr "Problem report preview"
+
+msgctxt "#30412"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "#30413"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "#30414"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "#30415"
+msgid "Report this problem?"
+msgstr "Report this problem?"
+
+msgctxt "#30416"
+msgid "Report sent, thank you!"
+msgstr "Report sent, thank you!"
+
+msgctxt "#30417"
+msgid "Report queued"
+msgstr "Report queued"
+
+msgctxt "#30418"
+msgid "Send this report now?"
+msgstr "Send this report now?"
+
+msgctxt "#30424"
+msgid "Menu icon style"
+msgstr "Menu icon style"
+
+msgctxt "#30425"
+msgid "Neon"
+msgstr "Neon"
+
+msgctxt "#30426"
+msgid "Cinema poster"
+msgstr "Cinema poster"
+
+msgctxt "#30427"
+msgid "Retro cinema 3D"
+msgstr "Retro cinema 3D"
+
+msgctxt "#30428"
+msgid "Illustrated poster"
+msgstr "Illustrated poster"
+
+msgctxt "#30429"
+msgid "Painted blockbuster"
+msgstr "Painted blockbuster"
+
+msgctxt "#30430"
+msgid "Download queue"
+msgstr ""
+
+msgctxt "#30431"
+msgid "Queue is empty"
+msgstr ""
+
+msgctxt "#30432"
+msgid "Added to download queue"
+msgstr ""
+
+msgctxt "#30433"
+msgid "Download queue is full"
+msgstr ""
+
+msgctxt "#30434"
+msgid "Clear finished"
+msgstr ""
+
+msgctxt "#30435"
+msgid "Clear entire queue"
+msgstr ""
+
+msgctxt "#30436"
+msgid "Remove from queue"
+msgstr ""
+
+msgctxt "#30437"
+msgid "Queued"
+msgstr ""
+
+msgctxt "#30438"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "#30439"
+msgid "Done"
+msgstr ""
+
+msgctxt "#30440"
+msgid "Error"
+msgstr ""
+
+msgctxt "#30441"
+msgid "Download finished"
+msgstr ""
+
+msgctxt "#30442"
+msgid "Download failed"
+msgstr ""
+
+msgctxt "#30443"
+msgid "Already in queue"
+msgstr ""
+
+msgctxt "#30444"
+msgid "Download folder is not set"
+msgstr ""
